@@ -8,7 +8,7 @@ import toml
 default_config = {
     "telegram": {
         "bot_name": "your_bot_@_username",
-        "api_key": "7871391150:AAGlJNCI7HjbC4ZMo5lIf6py-Q-mwTsFCdM",
+        "api_key": "your_telegram_api_key",
         "worker_count": 20,
         "admin": "nukesor",
         "allow_private_vote": False,
@@ -30,7 +30,7 @@ default_config = {
     "webhook": {
         "enabled": False,
         "domain": "https://localhost",
-        "token": "pollbot",
+        "token": "8043479258:AAFTgYpQWMiB6bwttV204DRzsI17xb8fviE",
         "cert_path": "/path/to/cert.pem",
         "port": 7000,
     },
